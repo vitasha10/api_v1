@@ -1,0 +1,20 @@
+<?php
+define('response_world', 'response');
+define('phppass', 'OnlyForPHP');
+define('phptoken','299hduhd39d939897d3h');
+define('display_error_details', true);
+define('classes_folder', 'classes');
+define('file_not_found_error','File not found');
+define('default_photo_quality',60);
+define('path_for_new_photos','photos/');
+define('new_photos_name', mt_rand(1000000, 9999999));
+define('error_not_allowed_type','Error! Not allowed type of image: ');
+define('error_incorect_token', 'Error! Incorect token.');
+define('error_incorect_pass', 'Error! Password incorect.');
+define('root_api_page', 'https://vitasha.tk/api');
+define('mysql_server', 'localhost');
+define('mysql_user','api_usr');
+define('mysql_pass','Hack8908');
+define('mysql_db','api');
+define('path_to_error_log','/var/www/fastuser/data/logs/api.vitasha.tk-backend.error.log');
+define('','');
